@@ -1,5 +1,5 @@
 # 钉钉群1
-https://oapi.dingtalk.com/robot/send?access_token=xxxxx
+https://oapi.dingtalk.com/robot/send?access_token=2da18f46e314c2c056362e1818c38c8bf8d8348898b5a3c2eca12c6c4cd08dbc
 
 # 钉钉群2
 https://oapi.dingtalk.com/robot/send?access_token=xxxxx
